@@ -129,8 +129,8 @@ jsBoot.pack('LxxlLib.model', function (api) {
     });
 
     this.Collection = api.TypedMutable.bind({}, {
-        id:'uk',
-        title:'United Kingdom'
+        id:'ca',
+        title:'Catalan'
     });
 
     var SubActivity = api.TypedMutable.bind({}, {
